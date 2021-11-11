@@ -1,0 +1,2 @@
+rootProject.name = "ohbab_9_test"
+include ':app'

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154519690760",
+    "project_id": "com-example-ohbab-9-test",
+    "storage_bucket": "com-example-ohbab-9-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154519690760:android:0cf8fe6683a7a1b9517bbd",
+        "android_client_info": {
+          "package_name": "com.example.ohbab_9_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154519690760-50oim0gv1ie2v5dlvcfng1jajr9pcjqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PcHJBHilVUg6tcFMAkz47JPNUZdN44k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154519690760-50oim0gv1ie2v5dlvcfng1jajr9pcjqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
